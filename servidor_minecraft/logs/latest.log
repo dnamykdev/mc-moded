@@ -1,0 +1,55 @@
+[00:00:45] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=15, y=62, z=4}
+[00:00:45] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=15, y=62, z=6}
+[00:00:49] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-22, y=-58, z=-16}
+[00:00:53] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-1158, y=177, z=-952}
+[00:00:55] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:00:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:00:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:00:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:00:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:00:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:00:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:05:51] [Server thread/INFO]: [joshtin25: Set the world spawn point to 171, 64, 886 [0.0]]
+[00:06:12] [Server thread/INFO]: [joshtin25: Set spawn point to 171, 64, 886 [0.0] in minecraft:overworld for joshtin25]
+[00:21:14] [Server thread/INFO]: joshtin25 has made the advancement [Monsterslayer!]
+[00:24:22] [Server thread/INFO]: joshtin25 has made the advancement [The Imperial March]
+[00:24:59] [Server thread/WARN]: joshtin25 moved too quickly! -9.476897918497514,-3.3750001181566063,-2.24522508399275
+[00:24:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=99, y=-59, z=21}
+[00:24:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-59, z=21}
+[00:24:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=99, y=-58, z=22}
+[00:25:08] [Server thread/WARN]: joshtin25 moved too quickly! 1.3248893140834923,-15.94434095994555,0.4100549059119203
+[00:26:47] [Server thread/INFO]: joshtin25 has made the advancement [When in Rome]
+[00:28:04] [Server thread/WARN]: joshtin25 moved too quickly! -9.9009544709523,0.0,2.191165542858471
+[00:28:06] [Server thread/WARN]: joshtin25 moved too quickly! -7.568593995310792,0.294000011682499,6.882299634638684
+[00:28:07] [Server thread/WARN]: joshtin25 moved too quickly! -0.35036925753904313,-10.856489120741145,2.4639256258535625
+[00:28:51] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-57, y=58, z=17}
+[00:28:51] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-57, y=59, z=17}
+[00:28:51] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-56, y=60, z=17}
+[00:28:51] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-53, y=57, z=18}
+[00:28:51] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-55, y=59, z=17}
+[00:32:27] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:32:27] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:32:27] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:32:28] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-58, y=58, z=47}
+[00:32:28] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-58, y=59, z=47}
+[00:32:28] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-57, y=60, z=47}
+[00:32:28] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-56, y=59, z=47}
+[00:32:28] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-54, y=57, z=48}
+[00:32:29] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:32:31] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:32:31] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:32:31] [Server thread/WARN]: joshtin25 moved too quickly! 5.323842485386525,2.446947937232963,-9.058554927794376
+[00:32:37] [Server thread/WARN]: joshtin25 moved too quickly! 4.5725891866437465,0.08784889693077957,-9.874929803556142
+[00:32:42] [Server thread/WARN]: joshtin25 moved too quickly! 4.811635539891768,0.0,-9.741351430477721
+[00:32:51] [Server thread/WARN]: joshtin25 moved too quickly! 0.205826173828612,-10.776353501992048,-2.9035393860518752
+[00:33:06] [Server thread/WARN]: joshtin25 moved too quickly! 0.0,-10.529193645291336,0.24038641770857794
+[00:33:07] [Server thread/WARN]: joshtin25 moved too quickly! 0.0,-11.207870780463594,0.0
+[00:33:16] [Server thread/INFO]: joshtin25 has made the advancement [Monster Hunter]
+[00:34:03] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=15, y=62, z=4}
+[00:34:03] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=15, y=62, z=6}
+[00:48:06] [Server thread/INFO]: joshtin25 has completed the challenge [Ender Dragon's Power]
+[00:49:47] [Server thread/INFO]: joshtin25 has made the advancement [Take Aim]
+[00:55:36] [Server thread/INFO]: joshtin25 has made the advancement [Bonfire Lit]
+[01:00:38] [Server thread/INFO]: Named entity class_1614['Toxic Duplicator Speedster Silverfish'/23606, l='ServerLevel[world]', x=168.17, y=78.44, z=993.83] died: Toxic Duplicator Speedster Silverfish went up in flames
+[01:00:44] [Server thread/INFO]: Named entity class_1614['Webslinging Lifesteal Silverfish'/23656, l='ServerLevel[world]', x=166.83, y=78.44, z=994.41] died: Webslinging Lifesteal Silverfish went up in flames
+[01:01:43] [Server thread/INFO]: Named entity class_1614['Ender Starving Thorny Webslinging Silverfish'/23727, l='ServerLevel[world]', x=169.11, y=78.00, z=996.05] died: Ender Starving Thorny Webslinging Silverfish was slain by joshtin25
